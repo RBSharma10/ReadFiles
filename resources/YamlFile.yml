@@ -1,0 +1,9 @@
+﻿   Scenario: TC03- Delete multiple ACH files in Approval Queue page.
+   Testcase: TC03
+   Author: Rohit
+   COMPANY_ID_TB: 1011983
+   USER_ID_TB: 839097
+   PASSWORD_TB:  Test@2023
+   ACH_FILE_1: ACH_FILE_1.txt
+   ACH_FILE_2: ACH_FILE_2.txt
+   ACH_FILE_3: ACH_FILE_3.txt
